@@ -14,7 +14,7 @@ This project lets you track live flights over Japan (or anywhere you want) in re
 **Clone This Repo**:
 
    ```bash
-   git clone https://github.com/william-suu/Air-Traffic-Map.git
+   git clone https://github.com/KANI-KO/Air-Traffic-Map.git
    ```
 
 **Run It**:
